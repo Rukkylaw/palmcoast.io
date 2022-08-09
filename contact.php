@@ -45,7 +45,7 @@ if(get_magic_quotes_gpc()) {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@themeforest.net";
-$address = "bimbola1995@gmail.com";
+$address = "Admin@selltopalmcoast.com";
 
 
 // Configuration option.
